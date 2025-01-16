@@ -17,6 +17,7 @@ DASHBOARD DE FINANÇAS PESSOAIS COM MICROSOFT EXCEL
  > 🗒️ **SOBRE:** Este é o repositório desenvolvido durante o Bootcamp promovido pela plataforma da [DIO](https://dio.me) em parceria com a Caixa Econômica Federal e a Microsoft. Projeto com o objetivo de aprofundar os conhecimentos sobre a ferramenta Excel através da elaboração de gráficos, tabelas dinâmicas e um Dashboard funcional, bem como explorar e aprimorar o uso das plataformas de Inteligência Artificial disponíveis através da sua utilizazação do ChatGPT para interpretação de dados financeiros. 
 
 <a href="https://github.com/lsnakata/create-dashboard-with-excel/blob/main/Dashboard_Finan%C3%A7as_Pessoais-Desafio.xlsx" title="View Tabs Now"> 📊 Dashboard disponível para download aqui</a>
+
 <a href="https://github.com/lsnakata/create-dashboard-with-excel/blob/main/Output_ChatGPT_Finan%C3%A7as_Pessoais-Desafio.pdf" title="View PDF Now"> 📕 Análise do ChatGPT disponível para leitura aqui</a>
 
 
@@ -49,9 +50,9 @@ ChatGPT：
 
 ## 📚 Materiais
 
--Base de Dados disponível em `inventory`
--Dashboard disponível em `main`
--Output ChatGPT disponível em `main`
+- Base de Dados disponível em `inventory`
+- Dashboard disponível em `main`
+- Output ChatGPT disponível em `main`
 
 
 ## 👨‍💻 Autoria
